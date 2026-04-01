@@ -1,0 +1,4 @@
+QCLSRC    GREETINGS CLLE      Help me understand PASERIE tools
+QCLSRC    MISSING   CLLE      Should stop installation (via WOPASE)
+QCLSRC    BUILD     CLLE      BUILD CLLE auto-generated
+QMAKSRC   BUILD     TXT       BUILD Makefile auto-generated
